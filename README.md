@@ -1,11 +1,5 @@
 # webapp
-This is a Org-repository for tiwariank-fall2020
 
-
-
-
-CSYE6225-Fall2020
-Course - INFO 6225 Networking and Cloud Computing
 
 Web-App Technology
 
