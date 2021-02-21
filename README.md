@@ -1,6 +1,15 @@
 # webapp
 
 
+This Project contains 4 repositories:
+
+    webapp
+    ami
+    infrastructure
+    serverless
+
+
+
 Web-App Technology
 
     Nodejs
