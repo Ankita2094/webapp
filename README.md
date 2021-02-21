@@ -31,5 +31,7 @@ AWS_SECRET_ACCESS_KEY
 AWS_S3_BUCKET
 AWS_REGION
 
+ARCHITECTURE DIAGRAM :
 
+![alt text](https://github.com/Ankita2094/webapp/blob/master/img/ArchitectureDiagram.png?raw=true)
 
