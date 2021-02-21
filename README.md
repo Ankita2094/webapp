@@ -32,7 +32,6 @@ AWS_S3_BUCKET,
 AWS_REGION
 
 ARCHITECTURE DIAGRAM :
-https://user-images.githubusercontent.com/69026663/108641591-00963280-746e-11eb-8f00-a82de20afb21.png
+![ArchitectureDiagram](https://user-images.githubusercontent.com/69026663/108641722-d2652280-746e-11eb-9af1-5e51f3896457.png)
 
-![alt text](https://github.com/Ankita2094/webapp/blob/master/img/ArchitectureDiagram.png?raw=true)
 
